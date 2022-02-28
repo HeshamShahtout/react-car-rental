@@ -11,6 +11,4 @@ RUN yarn install --production=false
 
 COPY . .
 
-RUN yarn build
-
 CMD ["node", "server.js"]
