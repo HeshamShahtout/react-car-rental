@@ -12,7 +12,11 @@ import { ApolloDriver } from '@nestjs/apollo';
     playground: true,
     debug: true,
     autoSchemaFile: true,
-    driver: ApolloDriver
+    driver: ApolloDriver,
+    cors: {
+      origin: 'http://localhost:3000',
+      credentials: true,
+    },
   }),
   ComponentsModule
 ],
