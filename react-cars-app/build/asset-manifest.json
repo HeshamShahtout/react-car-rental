@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.fa807d8e.css",
-    "main.js": "/static/js/main.3125f30f.js",
+    "main.js": "/static/js/main.6b2bd19d.js",
     "static/media/jeep.png": "/static/media/jeep.18461d13eb608d076dda.png",
     "static/media/mclaren-orange-big.png": "/static/media/mclaren-orange-big.46e3c615f2d4c2513ce5.png",
     "index.html": "/index.html",
     "static/media/blob.svg": "/static/media/blob.1e0bff3a3abf52dbf26af519c7a12408.svg",
     "main.fa807d8e.css.map": "/static/css/main.fa807d8e.css.map",
-    "main.3125f30f.js.map": "/static/js/main.3125f30f.js.map"
+    "main.6b2bd19d.js.map": "/static/js/main.6b2bd19d.js.map"
   },
   "entrypoints": [
     "static/css/main.fa807d8e.css",
-    "static/js/main.3125f30f.js"
+    "static/js/main.6b2bd19d.js"
   ]
 }
